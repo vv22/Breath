@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.756,v:\out\Unit1.dfm=D:\MyProg\D3\BreathTime\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,v:\out\Project1.dproj=D:\MyProg\D3\BreathTime\Breath.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=v:\out\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,v:\out\Unit1.pas=D:\MyProg\D3\BreathTime\main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
